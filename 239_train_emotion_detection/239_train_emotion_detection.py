@@ -1,8 +1,8 @@
 
 """
-Train a deep learning model on facial emotion detection
+Code to train a deep learning model for facial emotion detection
 
-Dataset from: https://www.kaggle.com/msambare/fer2013
+Dataset URL: https://www.kaggle.com/msambare/fer2013
 """
 
 from keras.preprocessing.image import ImageDataGenerator
